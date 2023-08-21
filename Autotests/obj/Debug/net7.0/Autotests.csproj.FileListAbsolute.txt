@@ -1,0 +1,15 @@
+/Users/user/Projects/Autotests/Autotests/bin/Debug/net7.0/Autotests
+/Users/user/Projects/Autotests/Autotests/bin/Debug/net7.0/Autotests.deps.json
+/Users/user/Projects/Autotests/Autotests/bin/Debug/net7.0/Autotests.runtimeconfig.json
+/Users/user/Projects/Autotests/Autotests/bin/Debug/net7.0/Autotests.dll
+/Users/user/Projects/Autotests/Autotests/bin/Debug/net7.0/Autotests.pdb
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.csproj.AssemblyReference.cache
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.AssemblyInfoInputs.cache
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.AssemblyInfo.cs
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.dll
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/refint/Autotests.dll
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.pdb
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/Autotests.genruntimeconfig.cache
+/Users/user/Projects/Autotests/Autotests/obj/Debug/net7.0/ref/Autotests.dll

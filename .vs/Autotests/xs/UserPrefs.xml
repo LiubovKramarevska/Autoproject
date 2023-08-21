@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{CCC99C43-5E5A-46CD-B84F-CCD5ED6E6F05}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Desktop/Automation/Methods/Methods/Program.cs">
+    <Files>
+      <File FileName="../../Desktop/Automation/Methods/Methods/Program.cs" Line="39" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Autotests" expanded="True">
+            <Node name="Autotests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Autotests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
